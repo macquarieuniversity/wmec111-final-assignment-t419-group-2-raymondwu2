@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.4479869, g: 0.4979943, b: 0.5755029, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -89,7 +89,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000002, guid: 9f0c579aeab26b54c94afcffc3df1f84,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -11280,7 +11281,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-490330
+  m_Name: pb_Mesh14354
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -22253,7 +22254,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: e633a20421c47426aa04444234225b69, type: 2}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23232,7 +23233,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-7157446
+  m_Name: pb_Mesh14560
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -23542,7 +23543,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-2923636
+  m_Name: pb_Mesh15060
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -47189,7 +47190,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-6848154
+  m_Name: pb_Mesh14386
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -49442,7 +49443,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-276210
+  m_Name: pb_Mesh14634
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -49629,7 +49630,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-5621176
+  m_Name: pb_Mesh14952
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -55283,7 +55284,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-5611532
+  m_Name: pb_Mesh14300
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -55748,7 +55749,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-5613684
+  m_Name: pb_Mesh14488
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -62772,7 +62773,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh13934
+  m_Name: pb_Mesh14752
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -63321,7 +63322,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
-  m_Range: 1000
+  m_Range: 20
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
@@ -68923,7 +68924,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-3586192
+  m_Name: pb_Mesh14446
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
